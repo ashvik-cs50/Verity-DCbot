@@ -1,0 +1,28 @@
+# Verity
+
+Verity is an AI-powered Discord chatbot built with Node.js,
+Discord.js, and OpenRouter.
+
+## Features
+
+- 🤖 AI-powered Discord conversations
+- 💬 `/openbox` to start a conversation
+- 🔒 `/closebox` to stop the conversation
+- 🧠 Conversation memory
+- ⚡ OpenRouter model support
+- 🔐 Environment-variable API keys
+- 🪶 Lightweight Node.js setup
+
+## Requirements
+
+- Node.js 18+
+- A Discord bot application
+- A Discord bot token
+- An OpenRouter API key
+
+## Installation
+
+```bash
+git clone YOUR_REPOSITORY_URL
+cd verity-discord-ai
+npm install
